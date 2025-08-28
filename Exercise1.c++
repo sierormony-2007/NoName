@@ -21,4 +21,4 @@ int main()
     object1.display();
     object2.display();
     return 0;
-}
+}//អ៊ីស៊ានអ្នកធ្វើ
